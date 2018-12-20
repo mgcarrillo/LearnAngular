@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Grace\Projects\HamRadio\App\HamRadioStudy\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f3064a6bb3bf091d8ef08a38816df98e4c033ce2">
+        <dex dex="C:\Grace\Projects\HamRadio\App\HamRadioStudy\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-widgets-release_fc6150d56c801099b3f45fb7be9f371417001aae.jar" />
+    </item>
+    <item
+        jar="C:\Grace\Projects\HamRadio\App\HamRadioStudy\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Grace\Projects\HamRadio\App\HamRadioStudy\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-24.2.1_a254557b56db1d98516e48f33a4fd6fee9355efe.jar" />
+    </item>
+    <item
+        jar="C:\Grace\Projects\HamRadio\App\HamRadioStudy\platforms\android\build\intermediates\exploded-aar\HamRadioStudy\runtime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="9909ad5fcc13fcc60529cfa340ee7e0abc79af38">
+        <dex dex="C:\Grace\Projects\HamRadio\App\HamRadioStudy\platforms\android\build\intermediates\pre-dexed\F0\debug\HamRadioStudy-runtime-unspecified_66e45e9b2dda2d121da59b01b90beb73e7d1780d.jar" />
+    </item>
+    <item
+        jar="C:\Grace\Projects\HamRadio\App\HamRadioStudy\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Grace\Projects\HamRadio\App\HamRadioStudy\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-ui-24.2.1_00624a79fefc15491fba220f50d76ba232882eb7.jar" />
+    </item>
+    <item
+        jar="C:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Grace\Projects\HamRadio\App\HamRadioStudy\platforms\android\build\intermediates\pre-dexed\F0\debug\support-annotations-24.2.1_aeaeaf6e61e30c9a1e1d270253e28c9934e606f4.jar" />
+    </item>
+    <item
+        jar="C:\Grace\Projects\HamRadio\App\HamRadioStudy\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Grace\Projects\HamRadio\App\HamRadioStudy\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-appcompat-v7-24.2.1_1236140399485285b455bedb38ddd5d22f43a267.jar" />
+    </item>
+    <item
+        jar="C:\Grace\Projects\HamRadio\App\HamRadioStudy\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Grace\Projects\HamRadio\App\HamRadioStudy\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-media-compat-24.2.1_220f9cf4939d46795cc081e1240fe6ea2adc798c.jar" />
+    </item>
+    <item
+        jar="C:\Grace\Projects\HamRadio\App\HamRadioStudy\platforms\android\build\intermediates\exploded-aar\HamRadioStudy\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="4290aba11bda501dbadc2dd5c4b08282c0bbfeb8">
+        <dex dex="C:\Grace\Projects\HamRadio\App\HamRadioStudy\platforms\android\build\intermediates\pre-dexed\F0\debug\binding-generator_81a5e8a8de403f7131c294a0f22f7120b84e82c3.jar" />
+    </item>
+    <item
+        jar="C:\Grace\Projects\HamRadio\App\HamRadioStudy\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Grace\Projects\HamRadio\App\HamRadioStudy\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-utils-24.2.1_3c8c3ce46e5611f4dc035b0f07b72d9a1877c92c.jar" />
+    </item>
+    <item
+        jar="C:\Grace\Projects\HamRadio\App\HamRadioStudy\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Grace\Projects\HamRadio\App\HamRadioStudy\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-animated-vector-drawable-24.2.1_99566e6f814cc62f82d76faf9d3ba0634f6ee1aa.jar" />
+    </item>
+    <item
+        jar="C:\Grace\Projects\HamRadio\App\HamRadioStudy\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Grace\Projects\HamRadio\App\HamRadioStudy\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-vector-drawable-24.2.1_582d05b648eadc15c8878916b35a62134b18c806.jar" />
+    </item>
+    <item
+        jar="C:\Grace\Projects\HamRadio\App\HamRadioStudy\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Grace\Projects\HamRadio\App\HamRadioStudy\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-24.2.1_9993f5c907d119c3ffeaf65a3f6178c946b35c34.jar" />
+    </item>
+    <item
+        jar="C:\Grace\Projects\HamRadio\App\HamRadioStudy\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Grace\Projects\HamRadio\App\HamRadioStudy\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-v4-24.2.1_0a8a03049477755f27ad695dbdda56534516525c.jar" />
+    </item>
+    <item
+        jar="C:\Grace\Projects\HamRadio\App\HamRadioStudy\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Grace\Projects\HamRadio\App\HamRadioStudy\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-fragment-24.2.1_6ae95323b2bf7bb8b50e54c1478c439f454b51b5.jar" />
+    </item>
+    <item
+        jar="C:\Grace\Projects\HamRadio\App\HamRadioStudy\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Grace\Projects\HamRadio\App\HamRadioStudy\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-24.2.1_01cf166890d552791791437a16a929b394eda12b.jar" />
+    </item>
+    <item
+        jar="C:\Grace\Projects\HamRadio\App\HamRadioStudy\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Grace\Projects\HamRadio\App\HamRadioStudy\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-24.2.1_9c59ddeeb797c0f51d3f881a35064b4a50aab2a0.jar" />
+    </item>
+    <item
+        jar="C:\Grace\Projects\HamRadio\App\HamRadioStudy\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Grace\Projects\HamRadio\App\HamRadioStudy\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-compat-24.2.1_343579d4e925a017bca4cbd3381413d9ee97e679.jar" />
+    </item>
+    <item
+        jar="C:\Grace\Projects\HamRadio\App\HamRadioStudy\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Grace\Projects\HamRadio\App\HamRadioStudy\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-24.2.1_0c9b1d74c63b72a192833325cd3ed8387752b7b0.jar" />
+    </item>
+
+</items>

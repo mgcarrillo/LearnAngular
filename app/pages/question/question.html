@@ -1,0 +1,14 @@
+<StackLayout #container>
+  <Image src="res://logo" stretch="none" horizontalAlignment="center"></Image>
+
+  <Label class="title" [text]="question.text"></Label>
+  <Label class="hint" [text]="question.answers.A"></Label>
+  <Label class="hint" [text]="question.answers.B"></Label>
+  <Label class="hint" [text]="question.answers.C"></Label>
+  <Label class="hint" [text]="question.answers.D"></Label>
+  <TextField #answer hint="Answer" [(ngModel)]="question.submittedanswer"></TextField>
+
+  <Button text="Submit Answer" class="submit-button" (tap)="submit()"></Button>
+  <Button text="Skip" class="skip-button" (tap)="skip()"></Button>
+  <Button text="Next" class="next-button" (tap)="next()"></Button>
+</StackLayout>

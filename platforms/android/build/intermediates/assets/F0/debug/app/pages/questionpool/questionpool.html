@@ -1,0 +1,13 @@
+<StackLayout #container>
+  <Image src="res://logo" stretch="none" horizontalAlignment="center"></Image>
+
+  <!--<Label class="title" [text]="question.text"></Label>
+  <Label class="hint" [text]="question.answers.A"></Label>
+  <Label class="hint" [text]="question.answers.B"></Label>
+  <Label class="hint" [text]="question.answers.C"></Label>
+  <Label class="hint" [text]="question.answers.D"></Label>-->
+  <Label text="Question Pools available"></Label>
+  <TextField #pickedpool hint="Answer" [(ngModel)]="questionPools.selectedPool"></TextField>
+
+  <Button [text]="Go to Question Pool" class="submit-button" (tap)="submit()"></Button>
+</StackLayout>

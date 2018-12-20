@@ -1,0 +1,32 @@
+<StackLayout> <!-- #container --> <!-- todo figure out what container is for -->
+   <Image src="res://icon" stretch="none" horizontalAlignment="center"></Image> 
+
+    <!--<Label text="test"></Label>-->
+    <Label text="Select a Question Pool" class="title"></Label>
+    
+    <Button text="TAP" (tap)="onTap()"></Button>
+
+    <Label [text]="message" class="message" textWrap="true"></Label>
+
+
+  <Label text="Question Pools Available" class="sectionheader"></Label>
+  <!-- TextField #pickedpool hint="SelectedPool" [(ngModel)]="questionPools.selectedPool"></TextField -->
+  <Button text="Go to Question Pool" class="submit-button" (tap)="submit()"></Button>
+
+  <GridLayout rows="auto, *">
+  <ListView [items]="masterList" row="1" class="small-spacing" [class.visible]="listLoaded">
+    <template let-item="item">
+      <GridLayout columns="*,*,*,*,auto">
+        <Label col="0" [text]="item.poolclass" class="small-spacing"></Label>
+        <Label col="1" [text]="item.year" class="small-spacing"></Label>
+        <Label col="2" [text]="item.expires" class="small-spacing"></Label>
+        <StackLayout col="3" class="selected" (tap)="select(item)">
+          <Image src="res://selected"></Image>
+        </StackLayout>
+      </GridLayout>
+    </template>
+  </ListView>
+
+  </GridLayout> 
+
+</StackLayout> 
